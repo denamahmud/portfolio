@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[96],{9096:(p,e,a)=>{p.exports=a.p+"static/media/Dina.8712a3428871fb2e61f3.jpeg"}}]);

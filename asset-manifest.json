@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/my-portfolio-website/static/css/main.34ec7b94.css",
-    "main.js": "/my-portfolio-website/static/js/main.17583d7f.js",
-    "static/js/964.513aea07.chunk.js": "/my-portfolio-website/static/js/964.513aea07.chunk.js",
-    "static/js/96.990fcaa1.chunk.js": "/my-portfolio-website/static/js/96.990fcaa1.chunk.js",
+    "main.js": "/my-portfolio-website/static/js/main.4add46f7.js",
+    "static/js/964.86292e4c.chunk.js": "/my-portfolio-website/static/js/964.86292e4c.chunk.js",
+    "static/js/677.cb5bba6e.chunk.js": "/my-portfolio-website/static/js/677.cb5bba6e.chunk.js",
     "static/js/664.3af50c21.chunk.js": "/my-portfolio-website/static/js/664.3af50c21.chunk.js",
     "static/media/weather2.png": "/my-portfolio-website/static/media/weather2.9469744bd3900f5cdd34.png",
     "static/media/details.png": "/my-portfolio-website/static/media/details.0f0efe3688ab54e12ef7.png",
@@ -15,21 +15,21 @@
     "static/media/fitness3.png": "/my-portfolio-website/static/media/fitness3.3e7f1199532b0b3783fa.png",
     "static/media/movie-mobile.jpg": "/my-portfolio-website/static/media/movie-mobile.0787430f57d602f26e73.jpg",
     "static/media/fitness-mobile.png": "/my-portfolio-website/static/media/fitness-mobile.2dcd5927a4f178002974.png",
+    "static/media/Dina.png": "/my-portfolio-website/static/media/Dina.f01caac98e86582ba5e0.png",
     "static/media/details-mobile.png": "/my-portfolio-website/static/media/details-mobile.d571c91b3ab13ff97f2f.png",
     "static/media/fitness2.png": "/my-portfolio-website/static/media/fitness2.b6b9b7cd8903bdc84715.png",
     "static/media/crud.png": "/my-portfolio-website/static/media/crud.0bfae3ac6a2e31dbcaf4.png",
     "static/media/weather1.png": "/my-portfolio-website/static/media/weather1.342470bd7f8884673de1.png",
-    "static/media/Dina.jpeg": "/my-portfolio-website/static/media/Dina.8712a3428871fb2e61f3.jpeg",
     "static/media/add-new-mobile.png": "/my-portfolio-website/static/media/add-new-mobile.1aa78017f239bdbbeefd.png",
     "static/media/products-mobile.png": "/my-portfolio-website/static/media/products-mobile.8410c8d763dc69188194.png",
     "index.html": "/my-portfolio-website/index.html",
     "main.34ec7b94.css.map": "/my-portfolio-website/static/css/main.34ec7b94.css.map",
-    "main.17583d7f.js.map": "/my-portfolio-website/static/js/main.17583d7f.js.map",
-    "964.513aea07.chunk.js.map": "/my-portfolio-website/static/js/964.513aea07.chunk.js.map",
+    "main.4add46f7.js.map": "/my-portfolio-website/static/js/main.4add46f7.js.map",
+    "964.86292e4c.chunk.js.map": "/my-portfolio-website/static/js/964.86292e4c.chunk.js.map",
     "664.3af50c21.chunk.js.map": "/my-portfolio-website/static/js/664.3af50c21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34ec7b94.css",
-    "static/js/main.17583d7f.js"
+    "static/js/main.4add46f7.js"
   ]
 }
