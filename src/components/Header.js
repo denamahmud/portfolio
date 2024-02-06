@@ -9,7 +9,7 @@ function Header() {
   const [imageSrc, setImageSrc] = useState(null);
 
   useEffect(() => { 
-    import('../imgs/Dina.jpeg').then((module) => {
+    import('../imgs/Dina.png').then((module) => {
       setImageSrc(module.default);
     });
   }, []);
