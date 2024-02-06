@@ -12,10 +12,7 @@
 6- User-friendly <br>
 <br>
 <br>
-<br>
-<br>
-
-
+ 
 #Libraries
 
 1- framer-motion <br>
@@ -26,14 +23,13 @@
 6- React-whatsapp <br>
 <br>
 <br>
-<br>
-<br>
+ 
 
 #Local Installation
 
 1- Install [Node.js](https://nodejs.org/en) <br>
 2- Install [Reactjs](https://legacy.reactjs.org/docs/getting-started.html) <br>
-3- git clone https://github.com/denamahmud/my-portfolio-website.git <br>
+3- git clone `https://github.com/denamahmud/my-portfolio-website.git` <br>
 3- cd my-app <br>
 4- `npm install` to install npm package <br>
 5- `npm start` to run app <br>
