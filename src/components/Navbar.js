@@ -25,9 +25,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto py-4">
         <div className="flex justify-between items-center">
-        
-         <Logo/>
-      
+          <Logo />
 
           <ul className="flex items-center space-x-4">
             {menuItems.map((item, index) => (

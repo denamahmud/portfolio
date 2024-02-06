@@ -16,7 +16,7 @@ function MobileMenu() {
   return (
     <nav className="bg-white block md:hidden">
       <div className="flex justify-between items-center p-4">
-         <Logo/>
+        <Logo />
 
         <MenuToggleIcon
           isOpen={isOpen}
