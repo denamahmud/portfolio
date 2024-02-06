@@ -15,7 +15,7 @@
 
 #Libraries
 
-1- framer-motion
+1- framer-motion <br>
 2- React-icons
 3- React-lazy-load
 4- React-router-dom
