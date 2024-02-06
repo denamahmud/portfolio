@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+html {
+  scroll-behavior: smooth;
+  --webkit-scroll-behavior: smooth;
+  --moz-scroll-behavior: smooth;
+  --ms-scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.title-section {
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  background-color: #e9c64745;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.5s;
+  --webkit-transition: 0.5s;
+  --moz-transition: 0.5s;
+  --ms-transition: 0.5s; 
+  border-radius: 20px;
+  border: 2px solid #e9c547;
+  line-height: 2.5rem;
+  color: #bcbaba;
+}
+
+.projects {
+  background-image: url("./imgs/github.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.overlay {
+  background-color: #000000a6;
+  height: 100%;
+} 
+.fixed-nav{
+  position: fixed;
+  left: 10%;
+  top: 5px;
+  width: 80% !important;
+  margin: 0 auto;
+  border-radius: 20px;
+  background-color: #050505fe !important;
+ 
+}
+.fixed-nav a{
+  color: #e9c547 !important; 
+}
+
+ 
+ 
+
+
+
+  
